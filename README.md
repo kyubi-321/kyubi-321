@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ankitbadhani102@gmail.com**
 
-- ⚡ Fun fact **I am always passionate about my work wheteher I am good at it or not.**
+- ⚡ Fact about me **I am always passionate about my work whether I am good at it or not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
