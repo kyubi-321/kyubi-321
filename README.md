@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm ANKIT BADHANI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyubi-321&label=Profile%20views&color=0e75b6&style=flat" alt="kyubi-321" /> </p>
 
-- 🔭 I’m currently working on [Amazon-clone](https://amazon-clone-self-six.vercel.app/)
+- 🔭 I’m currently looking for a role as a software developer
 
-- 🌱 I’m currently learning **Nextjs , Typescript , Javascript , MERN**
+- 🌱 I’m currently learning ** Reactjs , Nextjs , Javascript , MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyubi-321](https://github.com/kyubi-321)
 
