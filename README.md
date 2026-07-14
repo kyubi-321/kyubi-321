@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for a role as a software developer
 
-- 🌱 I’m currently learning ** Reactjs , Nextjs , Javascript , MERN**
+- 🌱 I’m currently practicing ** Reactjs , Nextjs , Javascript , MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyubi-321](https://github.com/kyubi-321)
 
