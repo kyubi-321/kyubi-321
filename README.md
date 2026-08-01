@@ -65,7 +65,7 @@ Git, GitHub, GitHub Actions, Linux, Postman
 
 ### 🔗 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/ankit-badhani-5aa21a221/)  
 - 📧 Email: ankitbadhani102@gmail.com  
 
 ---
