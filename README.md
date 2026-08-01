@@ -1,83 +1,74 @@
 <h1 align="center">Hi 👋, I'm Ankit Badhani</h1>
-<h3 align="center">🚀 Full Stack Developer | ☁️ Azure DevOps Engineer | 💻 MERN Stack Enthusiast</h3>
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 Currently working as **IT Support Analyst @ HCLTech (Barclays Project)**
-- 🚀 Transitioning into **Full Stack + DevOps Engineer**
-- 🔧 Hands-on with **Azure, Docker, Kubernetes, Terraform & CI/CD**
-- 🌱 Currently learning **Azure DevOps | AKS | Advanced Terraform**
-- 🎯 Goal: Crack a **12 LPA DevOps / SDE Role**
+<h3 align="center">
+🚀 Software Developer | ☁️ DevOps Engineer | ⚡ Cloud Enthusiast
+</h3>
 
 ---
 
-## ⚡ Tech Stack
+<img align="right" width="300" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
 
-### 💻 Development
-- **Frontend:** React.js, Next.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Languages:** JavaScript (ES6+), C/C++, Python
+### 👨‍💻 About Me
 
-### ☁️ Cloud & DevOps
-- **Cloud:** Microsoft Azure
-- **Containerization:** Docker, Docker Compose
-- **Orchestration:** Kubernetes (AKS)
-- **Infrastructure as Code:** Terraform
-- **CI/CD:** GitHub Actions
-- **Version Control:** Git & GitHub
-
-### 🛠️ Tools & Platforms
-- Linux | Windows Server | Active Directory | Citrix | VDI | Postman
+- 🚀 Software Developer passionate about building scalable applications  
+- ☁️ Skilled in **Cloud & DevOps (Azure, Docker, Kubernetes, Terraform)**  
+- ⚡ Experience with **Full Stack Development (MERN Stack)**  
+- 🌱 Currently learning **Azure DevOps | AKS | Advanced Infrastructure Automation**  
+- 🎯 Targeting **Software Developer / DevOps / Cloud Engineer roles**
 
 ---
 
-## 📂 Featured Projects
+### ⚡ Impact & Work
 
-### 🚀 Full Stack MERN App with CI/CD
-- Built scalable web application using MERN stack
-- Integrated **CI/CD pipeline using GitHub Actions**
-- Automated build & deployment workflow
-
-### ☁️ Azure Infrastructure + Terraform
-- Provisioned infrastructure using **Terraform (IaC)**
-- Deployed services on **Azure Virtual Machines & Networking**
-- Implemented secure and scalable cloud architecture
-
-### 🐳 Docker + Kubernetes Deployment
-- Containerized backend services using Docker
-- Deployed apps on **Azure Kubernetes Service (AKS)**
-- Managed scaling & orchestration
+- ⚡ Built and deployed full-stack applications using MERN stack  
+- ⚡ Designed scalable infrastructure using Terraform (IaC)  
+- ⚡ Containerized applications using Docker and deployed on Kubernetes  
+- ⚡ Implemented CI/CD pipelines for automated deployments  
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
+
+#### ☁️ Azure Infrastructure with Terraform
+- Built reusable Terraform modules  
+- Provisioned cloud infrastructure on Azure  
+
+#### 🐳 Docker + Kubernetes Deployment
+- Containerized applications using Docker  
+- Deployed & managed workloads on Kubernetes (AKS)  
+
+#### 🔁 MERN Stack App with CI/CD
+- Developed full-stack app (MongoDB, Express, React, Node)  
+- Integrated CI/CD pipelines using GitHub Actions  
+
+---
+
+### ⚡ Tech Stack
+
+**💻 Development:**  
+React.js, Node.js, Express.js, MongoDB  
+
+**☁️ DevOps & Cloud:**  
+Azure, Docker, Kubernetes, Terraform, CI/CD  
+
+**🛠 Tools:**  
+Git, GitHub, GitHub Actions, Linux, Postman  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyubi-321&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyubi-321&theme=tokyonight" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubi-321&layout=compact&theme=tokyonight" />
-</p>
+### 🔗 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 📧 Email: ankitbadhani102@gmail.com  
 
 ---
 
-## 🌐 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ankit-badhani-5aa21a221/
-- 💻 GitHub: https://github.com/kyubi-321
-- 📧 Email: ankitbadhani102@gmail.com
-
----
-
-## ⚡ Fun Fact
-💡 *I believe consistency beats talent — learning Dev + DevOps daily to become industry-ready.*
+⭐️ From [kyubi-321](https://github.com/kyubi-321)
