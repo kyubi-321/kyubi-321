@@ -5,7 +5,7 @@
 </h3>
 
 ---
-<img align="right" width="300" src="https://i.imghippo.com/files/ObV5917TY.gif" alt="Image" />
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/bab45a22-ca00-46a6-a605-6652d263002a" />
 ### 👨‍💻 About Me
 
 - 🚀 Software Developer passionate about building scalable applications  
