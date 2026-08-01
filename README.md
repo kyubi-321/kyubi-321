@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" width="300" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
+<img align="right" width="300" src="[https://cdn-icons-png.flaticon.com/512/4712/4712109.png](https://www.imghippo.com/i/ObV5917TY.gif)">
 
 ### 👨‍💻 About Me
 
