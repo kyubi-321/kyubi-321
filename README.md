@@ -55,14 +55,6 @@ Git, GitHub, GitHub Actions, Linux, Postman
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyubi-321&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 - 💼 LinkedIn: [Ankit Badhani](https://www.linkedin.com/in/ankit-badhani-5aa21a221/)  
